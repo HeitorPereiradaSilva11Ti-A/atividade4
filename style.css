@@ -1,0 +1,45 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   background-color: #facc15;
+   font-family:fantasy;
+}
+
+body > div{
+   background-color: #000000;
+   max-width: 736px;
+   margin-inline: auto;
+   margin-block: 64px;
+   padding: 40px;
+}
+
+div img{
+   width: 100%;
+   margin-bottom: 40px;
+}
+
+
+h1{
+   font-size: 40px;
+   color: white;
+   line-height: 100%;
+   margin-bottom: 24px;
+}
+
+
+   p{
+   color: white;
+   line-height: 150%;
+   margin-bottom: 32px;
+}
+
+a{
+   color: white;
+}
+h2{
+   color: white;
+}
