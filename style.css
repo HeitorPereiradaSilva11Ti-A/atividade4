@@ -23,13 +23,15 @@ div img{
 }
 
 
-h1{
-   font-size: 40px;
-   color: white;
-   line-height: 100%;
-   margin-bottom: 24px;
+header{
+   background-color: #facc15;
 }
-
+h1{
+      font-size: 40px;
+      color: white;
+      line-height: 100%;
+      margin-bottom: 24px;
+}
 
    p{
    color: white;
